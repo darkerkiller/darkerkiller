@@ -69,8 +69,8 @@
 
 ### 📊 GitHub Profile Summary & Statistics
 
-<!-- 替代 GitHub Stats 与 Top Langs 的本地高可靠卡片组 -->
 <div align="center">
+  <!-- 综合统计卡片与语言占比 -->
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
   <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats Summary" />
   <br /><br />
@@ -79,6 +79,24 @@
   <br /><br />
   <!-- 修仙境界卡片 -->
   <img src="https://github-immortality.vercel.app/api?username=darkerkiller" alt="Cultivation Realm" />
+</div>
+
+---
+
+### 🔥 GitHub Streak
+
+<!-- GitHub 连续打卡卡片 -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=darkerkiller&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="185" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<!-- 过去 31 天动态活动统计图 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkerkiller&theme=tokyo-night" alt="Activity Graph" width="95%" />
 </div>
 
 ---
@@ -94,7 +112,7 @@
 
 ### 🐍 Contribution Snake
 
-<!-- 贪吃蛇贡献动画 -->
+<!-- 贪吃蛇动画 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkerkiller/darkerkiller/output/github-contribution-grid-snake-dark.svg">
