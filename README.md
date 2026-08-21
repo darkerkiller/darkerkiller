@@ -70,7 +70,7 @@
 ### 📊 GitHub Profile Summary & Statistics
 
 <div align="center">
-  <!-- 综合统计卡片与语言占比 -->
+  <!-- 本地静态统计卡片 -->
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
   <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats Summary" />
   <br /><br />
@@ -79,6 +79,15 @@
   <br /><br />
   <!-- 修仙境界卡片 -->
   <img src="https://github-immortality.vercel.app/api?username=darkerkiller" alt="Cultivation Realm" />
+</div>
+
+---
+
+### 📈 Metrics Overview
+
+<!-- GitHub Metrics 综合信息图 -->
+<div align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="95%" />
 </div>
 
 ---
@@ -92,9 +101,9 @@
 
 ---
 
-### 📈 Activity Graph
+### 📉 Activity Graph
 
-<!-- 过去 31 天动态活动统计图 -->
+<!-- 过去 31 天活动统计图 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkerkiller&theme=tokyo-night" alt="Activity Graph" width="95%" />
 </div>
