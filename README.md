@@ -1,9 +1,11 @@
 <div align="center">
 
-  # Hi there 👋
-  
-  ### 🚀 Software Engineer & Systems Enthusiast | LLM Infra & Performance Optimization
+  <!-- 1. 打字特效 (Typing SVG) -->
+  <a href="https://github.com/darkerkiller">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+darkerkiller!+👋;Software+Engineer+%26+Systems+Enthusiast;Passionate+about+LLM+Infra,+C%2B%2B,+Rust+%26+Java;Welcome+to+my+digital+playground!;Explore+my+projects+below+👇&center=true&width=520&height=50&color=38BDF8&vCenter=true&size=20" alt="Typing SVG" />
+  </a>
 
+  <!-- 访客统计与关注者徽章 -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=darkerkiller&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
     <a href="https://github.com/darkerkiller?tab=followers"><img src="https://img.shields.io/github/followers/darkerkiller?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" /></a>
@@ -20,6 +22,15 @@
 - 🛠️ **Systems & Hardware**: Exploring accelerator runtime optimization, coroutine scheduling, and custom memory management.
 - 🌱 **Current Exploration**: State-of-the-art LLM serving architectures, kernel acceleration, and low-level system design.
 - ⚡ **Philosophy**: Writing clean, robust, and scalable software from low-level systems to modern backends.
+
+---
+
+### 🏆 GitHub Trophies
+
+<!-- 2. GitHub 资料奖杯 (GitHub Profile Trophy) -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darkerkiller&theme=tokyonight&no-frame=false&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -55,20 +66,34 @@
 
 ---
 
-### 📊 GitHub Profile Summary & Statistics
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats Summary" />
+  <!-- 3. GitHub 统计卡片 (GitHub Readme Stats) & 4. 连续打卡 (Streak Stats) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=darkerkiller&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=darkerkiller&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="175" />
   <br /><br />
-  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  <!-- 5. 使用语言统计 (Top Languages) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkerkiller&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" height="175" />
+  <br /><br />
+  <!-- 6. 修仙系列统计卡片 (Immortality Stats) -->
+  <img src="https://github-immortality.vercel.app/api?username=darkerkiller" alt="Cultivation Realm" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<!-- 7. GitHub 31天活动统计图 (Activity Graph) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkerkiller&theme=tokyo-night" alt="Activity Graph" width="95%" />
 </div>
 
 ---
 
 ### 🌐 3D Contribution Graph
 
+<!-- 3D 贡献图 (彩虹夜景风格) -->
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%" />
 </div>
@@ -77,6 +102,7 @@
 
 ### 🐍 Contribution Snake
 
+<!-- 贪吃蛇动画 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkerkiller/darkerkiller/output/github-contribution-grid-snake-dark.svg">
