@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there, I'm Yuhang (darkerkiller) 👋
+  # Hi there 👋
   
   ### 🚀 Software Engineer & Systems Enthusiast | LLM Infra & Performance Optimization
 
