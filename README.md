@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Typing Title -->
-  <a href="https://readme-typing-svg.demolab.com">
+  <a href="https://github.com/darkerkiller">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+darkerkiller!+👋;Software+Engineer+%26+Systems+Enthusiast;Passionate+about+LLM+Infra,+C%2B%2B,+Rust+%26+Java;Welcome+to+my+digital+playground!;Explore+my+projects+below+👇&center=true&width=520&height=50&color=38BDF8&vCenter=true&size=20" alt="Typing SVG" />
   </a>
 
@@ -69,11 +69,11 @@
 
 <div align="center">
   <!-- Stats & Streak Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=darkerkiller&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="darkerkiller's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darkerkiller&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800" alt="darkerkiller's GitHub stats" height="170" />
   <img src="https://streak-stats.demolab.com/?user=darkerkiller&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="170" />
   <br /><br />
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkerkiller&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkerkiller&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="Top Langs" height="170" />
   <br /><br />
   <!-- Immortality Cultivation Realm Card -->
   <img src="https://github-immortality.vercel.app/api?username=darkerkiller" alt="Cultivation Realm" />
