@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Dynamic Typing Title -->
-  <a href="https://github.com/darkerkiller">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+darkerkiller!+👋;Software+Engineer+%26+Systems+Enthusiast;Passionate+about+LLM+Infra,+C%2B%2B,+Rust+%26+Java;Welcome+to+my+digital+playground!;Explore+my+projects+below+👇&center=true&width=520&height=50&color=38BDF8&vCenter=true&size=20" alt="Typing SVG" />
-  </a>
+  # Hi there, I'm Yuhang (darkerkiller) 👋
+  
+  ### 🚀 Software Engineer & Systems Enthusiast | LLM Infra & Performance Optimization
 
-  <!-- Profile Visitor Counter & Followers -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=darkerkiller&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
     <a href="https://github.com/darkerkiller?tab=followers"><img src="https://img.shields.io/github/followers/darkerkiller?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" /></a>
@@ -22,14 +20,6 @@
 - 🛠️ **Systems & Hardware**: Exploring accelerator runtime optimization, coroutine scheduling, and custom memory management.
 - 🌱 **Current Exploration**: State-of-the-art LLM serving architectures, kernel acceleration, and low-level system design.
 - ⚡ **Philosophy**: Writing clean, robust, and scalable software from low-level systems to modern backends.
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darkerkiller&theme=tokyonight&no-frame=false&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -65,18 +55,14 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Profile Summary & Statistics
 
 <div align="center">
-  <!-- Stats & Streak Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=darkerkiller&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800" alt="darkerkiller's GitHub stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=darkerkiller&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="170" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats Summary" />
   <br /><br />
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkerkiller&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="Top Langs" height="170" />
-  <br /><br />
-  <!-- Immortality Cultivation Realm Card -->
-  <img src="https://github-immortality.vercel.app/api?username=darkerkiller" alt="Cultivation Realm" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 </div>
 
 ---
@@ -85,14 +71,6 @@
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%" />
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkerkiller&theme=tokyo-night" alt="Activity Graph" width="95%" />
 </div>
 
 ---
